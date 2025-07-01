@@ -1,0 +1,11 @@
+{
+  "name": "blockstarter",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "moon run :dev",
+    "build": "moon run :build"
+  },
+  "engines": {
+    "node": "22.16.0"
+  }
+}

@@ -1,0 +1,8 @@
+
+# moon
+.moon/cache
+.moon/docker
+
+# projects
+apps/**/.env
+apps/**/node_modules
